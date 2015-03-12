@@ -1,6 +1,6 @@
 #Resify
 
-The Most Advanced Reset CSS Script!
+The Most Advanced Reset CSS Script! A -ify project!
 
 #How is it so advanced?
 
